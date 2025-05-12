@@ -61,17 +61,8 @@ Feel free to explore these repositories to see my work in action.
 ### 🤝 Connect with Me
 
 <p align="center">
+   <a href="https://www.instagram.com/nashradeveloper/"><img src="https://img.shields.io/badge/instagram-Nashra%20Khan-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://www.linkedin.com/in/nashra-khan-frontend-developer/"><img src="https://img.shields.io/badge/LinkedIn-Nashra%20Khan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="mailto:nashrak562@gmail.com"><img src="https://img.shields.io/badge/Email-nashrashaikh761@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
 </p>
-
----
-
-### 📸 Featured Project Screenshot
-
-![Landing Page Screenshot](https://raw.githubusercontent.com/Nashrakha/landing-page/main/screenshot.png)
-
-*Screenshot of the Landing Page project showcasing responsive design.*
-
----
 
