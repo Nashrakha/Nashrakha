@@ -49,14 +49,6 @@ Feel free to explore these repositories to see my work in action.
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nashrakha&show_icons=true&theme=radical" alt="Nashra's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nashrakha&theme=radical" alt="Nashra's GitHub streak" />
-</p>
-
----
 
 ### 🤝 Connect with Me
 
